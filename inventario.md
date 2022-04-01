@@ -2,3 +2,5 @@
 1216751
 
 # processori
+
+# schede madri
